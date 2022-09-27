@@ -6,7 +6,10 @@ import PrettyUglyPlot_BarChart
 
 ##### Pretty Plot - starts here #####
 '''
-This Segment 
+This part of the program will spit out the Pretty version of the average wind speed in the respective seasons. 
+
+It will still answer all the questions but it will show one of the potential version of how not to make a Dial Chart.
+
 '''
 
 #for Winter - Blue
