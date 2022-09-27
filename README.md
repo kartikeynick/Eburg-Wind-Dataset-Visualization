@@ -8,7 +8,15 @@ The dataset consists of the wind speeds and the temperage at Edburg.
 
 This is a visualization project where the dataset from Edburg Wind has been analyzed and the average wind speed has been analyzed.
 
-There is a bar graph which visualize the Monthly average January through December .
+There is a bar graph which visualize the Monthly average January through December.
+
+![newplot](https://user-images.githubusercontent.com/47652496/192637786-69227b0b-e941-4a14-b800-d6a5a16d0b6c.png)
+![newplot (1)](https://user-images.githubusercontent.com/47652496/192637842-76d61671-695f-4808-a5da-c89d4fb1ffcf.png)
+![newplot (2)](https://user-images.githubusercontent.com/47652496/192637843-fece3d83-21a1-4f47-92fa-82e541cde2cb.png)
+![newplot (3)](https://user-images.githubusercontent.com/47652496/192637844-ab83c65a-384a-4fc3-a359-96007079b837.png)
+
+
+
 
 The Dial chart is visualizing the average wind speed by the seasons : Winter, Spring, Summer and Fall. 
 
