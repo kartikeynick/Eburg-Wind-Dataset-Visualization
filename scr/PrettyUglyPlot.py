@@ -8,7 +8,7 @@ pio.renderers.default = 'iframe'
 import matplotlib.pyplot as plt
 
 #read the data set
-df = pd.read_excel('NEW Wind DS.xlsx')
+df = pd.read_csv('Dataset/Eburg Wind - Edburg Wind.csv')
 
 # Sorting ang re arranging the data w.r.t. month and year
 
